@@ -1,2 +1,4 @@
-this is an introduction for my profile
-JavaScript
+*JavaScript
+*Git
+*Java
+*css
